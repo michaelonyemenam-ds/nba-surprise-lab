@@ -2,7 +2,9 @@
 
 Independent NBA analytics project exploring observed outcomes relative to statistical expectations, with an emphasis on shot-level performance and lineup context.
 
-**Deployment status:** The original application file has not yet been committed to this repository. The repository currently contains documentation only.
+**[Launch the application](https://michaelonyemenam-ds.github.io/nba-surprise-lab/)** | [View application source](./index.html)
+
+The original application is committed as `index.html` at the repository root. The live link requires GitHub Pages to be enabled.
 
 ## Research scope
 - Observed versus expected shooting performance
